@@ -61,13 +61,18 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 **Frameworks**:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Cairo](https://img.shields.io/badge/-Cairo-20232A?style=flat) <!-- No official badge for Cairo ZKP -->
+![Cairo](https://img.shields.io/badge/-Cairo-20232A?style=flat) 
 ![Aztec](https://img.shields.io/badge/-Aztec-7F5AB6?style=flat) 
+![Chainlink](https://img.shields.io/badge/-Chainlink-375BD5?style=flat&logo=chainlink&logoColor=white)
+![zkSync](https://img.shields.io/badge/-zkSync-3AB6D1?style=flat) 
+![Threshold Network](https://img.shields.io/badge/-Threshold%20Network-555555?style=flat) 
+
 
 **Libraries**: 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0131B4?style=flat&logo=matplotlib&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
 
 **AI Tools**:
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
