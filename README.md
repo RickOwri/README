@@ -8,40 +8,6 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 
 ---
 
-## 🎓 Education
-
-- 🌐 **Encode Club - Solidity Expert Bootcamp** 
-- 🌐 **Encode Club - Zero Knowledge Bootcamp** 
-- 🌐 **Encode Club - Solidity Bootcamp** 
-- 📜 **Blockchain Specialization from New York University on Coursera** 
-- 🎓 **Faculté de Pharmacie de Strasbourg, 6y** 
-  - Specialized in Clinical data analysis using R programming
-
----
-
-## 💼 Professional Experience
-
-- 🌐 **Front-End Freelance Developer** (July 2023 - Present)
-- 💊 **Pharmacies Replacement** (September 2017 - Present)
-  - Resolving computer-related issues in the pharmacy practice.
-- 🔒 **Smart Contract Auditing Contributor for REACH**
-
----
-
-## 🏆 Projects
-
-- 🏅 **EthCC Hacker House Hackathon**: Won a prize for *Best Implementation of the Threshold Network* (July 2023)
-- 🏅 **Hacking Health Camp**: Won a prize for *Best Innovation in healthcare* (February 2017)
-- 🔒 Focused on **privacy-preserving tools in healthcare**
-
----
-
-## 📜 Certifications and Courses
-
-- **C2i level 2 certification in health**: Official French certification in healthcare informatics.
-
----
-
 ## 🛠 CS Skills
 
 **Languages**: 
@@ -83,6 +49,42 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 ![langChain](https://img.shields.io/badge/-langChain-20232A?style=flat)
 ![llamaIndex](https://img.shields.io/badge/-llamaIndex-20232A?style=flat)
 ![OpenAIApi](https://img.shields.io/badge/-OpenAIApi-20232A?style=flat)
+
+---
+
+## 🎓 Education
+
+- 🌐 **Encode Club - Solidity Expert Bootcamp** 
+- 🌐 **Encode Club - Zero Knowledge Bootcamp** 
+- 🌐 **Encode Club - Solidity Bootcamp** 
+- 📜 **Blockchain Specialization from New York University on Coursera** 
+- 🎓 **Faculté de Pharmacie de Strasbourg, 6y** 
+  - Specialized in Clinical data analysis using R programming
+
+---
+
+## 💼 Professional Experience
+
+- 🌐 **Front-End Freelance Developer** (July 2023 - Present)
+- 💊 **Pharmacies Replacement** (September 2017 - Present)
+  - Resolving computer-related issues in the pharmacy practice.
+- 🔒 **Smart Contract Auditing Contributor for REACH**
+
+---
+
+## 🏆 Projects
+
+- 🏅 **EthCC Hacker House Hackathon**: Won a prize for *Best Implementation of the Threshold Network* (July 2023)
+- 🏅 **Hacking Health Camp**: Won a prize for *Best Innovation in healthcare* (February 2017)
+- 🔒 Focused on **privacy-preserving tools in healthcare**
+
+---
+
+## 📜 Certifications and Courses
+
+- **C2i level 2 certification in health**: Official French certification in healthcare informatics.
+
+
 
 ---
 
