@@ -44,10 +44,6 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 
 ## 🛠 CS Skills
 
-## 🛠 CS Skills
-
-## 🛠 CS Skills
-
 **Languages**: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
