@@ -60,7 +60,7 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 - 📜 **Blockchain Specialization from New York University** 
 - 🎓 **Faculté de Pharmacie de Strasbourg, 6y** 
   - Specialized in Clinical data analysis using R programming
-
+- **C2i level 2 certification in health**: Official French certification in healthcare informatics.
 ---
 
 ## 💼 Professional Experience
@@ -77,21 +77,6 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 - 🏅 **EthCC Hacker House Hackathon**: Won a prize for *Best Implementation of the Threshold Network* (July 2023)
 - 🏅 **Hacking Health Camp**: Won a prize for *Best Innovation in healthcare* (February 2017)
 - 🔒 Focused on **privacy-preserving tools in healthcare**
-
----
-
-## 📜 Certifications and Courses
-
-- **C2i level 2 certification in health**: Official French certification in healthcare informatics.
-
-
-
----
-
-## 🗺 Languages
-
-- 🇫🇷 Fluent in French
-- 🇬🇧 Proficient in English
 
 ---
 
