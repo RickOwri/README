@@ -14,7 +14,7 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 - 🌐 **Encode Club - Zero Knowledge Bootcamp** 
 - 🌐 **Encode Club - Solidity Bootcamp** 
 - 📜 **Blockchain Specialization from New York University on Coursera** 
-- 🎓 **Faculté de Pharmacie de Strasbourg** 
+- 🎓 **Faculté de Pharmacie de Strasbourg, 6y** 
   - Specialized in Clinical data analysis using R programming
 
 ---
