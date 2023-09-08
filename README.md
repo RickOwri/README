@@ -60,6 +60,4 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [your LinkedIn](https://www.linkedin.com/in/yourusername/)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Twitter: [@yourusername](https://twitter.com/mickael_rtdev)
