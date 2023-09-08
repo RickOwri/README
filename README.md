@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Mickaël
 
 I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcare Technology**. I'm passionate about creating privacy-preserving tools in healthcare and contributing to decentralized networks. 👨‍💻
 
