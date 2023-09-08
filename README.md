@@ -65,8 +65,8 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 
 ## 💼 Professional Experience
 
-- 🌐 **Front-End Freelance Developer** (July 2023 - Present)
-- 💊 **Pharmacies Replacement** (September 2017 - Present)
+- 🌐 **Front-End Freelance Developer**
+- 💊 **Pharmacies Replacement**
   - Resolving computer-related issues in the pharmacy practice.
 - 🔒 **Smart Contract Auditing Contributor for REACH**
 
