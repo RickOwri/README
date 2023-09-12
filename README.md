@@ -67,6 +67,7 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 
 - 🌐 **Front-End Freelance Developer**
 - 💊 **Pharmacies Replacement**
+  - Helped the team in logistic and use of prescriptions 
   - Resolving computer-related issues in the pharmacy practice.
 - 🔒 **Smart Contract Auditing Contributor for REACH**
 
