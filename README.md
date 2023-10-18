@@ -3,7 +3,6 @@
 I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcare Technology**. I'm passionate about creating privacy-preserving tools in healthcare and contributing to decentralized networks. 👨‍💻
 
 ---
-
 ## 🛠 CS Skills
 
 📚 **Programming Languages:**
@@ -33,6 +32,7 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 🔧 **Other Skills:** 
 
 ![Jira (Agile)](https://img.shields.io/badge/Jira%20(Agile)-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![tkinter](https://img.shields.io/badge/tkinter-3C3C3D?style=for-the-badge) ![Suite Office](https://img.shields.io/badge/Suite%20Office-3C3C3D?style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-333333?style=for-the-badge) ![Video Editing](https://img.shields.io/badge/Video%20Editing-3C3C3D?style=for-the-badge) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 ---
 
 ## 🎓 Education
