@@ -9,9 +9,6 @@ I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcar
 ---
 
 ## 🛠 CS Skills
-Certainly, here's the skillset section with badges for each technology:
-
-**Skillset**
 
 📚 **Programming Languages:**
 
