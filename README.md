@@ -2,10 +2,6 @@
 
 I'm a **Blockchain Developer** with a background in **Pharmacy** and **Healthcare Technology**. I'm passionate about creating privacy-preserving tools in healthcare and contributing to decentralized networks. 👨‍💻
 
-![Blockchain](https://img.shields.io/badge/Blockchain-Solidity-blue)
-![Healthcare](https://img.shields.io/badge/Healthcare-Pharmacy-green)
-![Programming](https://img.shields.io/badge/Code-Python%20%7C%20R-yellow)
-
 ---
 
 ## 🛠 CS Skills
